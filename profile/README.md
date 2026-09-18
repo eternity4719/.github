@@ -28,4 +28,6 @@ Java 版生存服务器，游戏地址 `1.mcyyy.com`，官网 [4.mcyyy.com](http
 | [HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) [![](https://img.shields.io/github/stars/eternity4719/HowToLiveBetter?style=flat-square&label=)](https://github.com/eternity4719/HowToLiveBetter/stargazers) | 高性价比人生指南。32 节 508 条，每条写明花掉什么、换回什么、证据有多硬，只引期刊论文和官方文件 |
 | [CoreLib](https://github.com/eternity4719/CoreLib) | Bukkit / Folia 插件基础库，Kotlin。协程调度、持久化数据、消息与冷却的封装 |
 | [AmazingBot5](https://github.com/eternity4719/AmazingBot5) | QQ 机器人框架，Bukkit 插件形态，走 OneBot 11 协议，让服务器和群互通 |
-| [TrueSight](https://github.com/eternity4719/TrueSight) | Minecraft 客户端模组 |
+| [toh-proxy](https://github.com/eternity4719/toh-proxy) | Minecraft 服务器的 WebSocket 转发，Go |
+| [TohConnect](https://github.com/eternity4719/TohConnect) | toh-proxy 的 Fabric 客户端模组，两者配套用 |
+| [TrueSight](https://github.com/eternity4719/TrueSight) | Fabric 客户端模组，绕过服务端的反矿透 |
